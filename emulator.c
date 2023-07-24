@@ -1,3 +1,4 @@
+//flag{s0_s3cr3t_y3t_s0_fr33}
 #include <stdio.h>
 #include <stdlib.h>
 
